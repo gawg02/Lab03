@@ -1,9 +1,16 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Greg Little GL (Captain) & Andrei Hristea AH (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-1. Completed part 1 of the lab
+## *Version 0.1*
 
-2. This is a signing test
+Release Date: Jan 26, 2017
+## New Components
+
+- changelog (GL)
+
+## Updated Components
+
+- changelog information (GL)
