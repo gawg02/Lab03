@@ -28,3 +28,4 @@ Release Date: Jan 26, 2017
 - Gallery.php controller (GL)
 - Welcome.php controller (GL)
 - Changelog (AH)
+- Finished part 3 (AH)
