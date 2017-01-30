@@ -27,3 +27,4 @@ Release Date: Jan 26, 2017
 - About.php controller (GL)
 - Gallery.php controller (GL)
 - Welcome.php controller (GL)
+- Changelog recoved (AH)
